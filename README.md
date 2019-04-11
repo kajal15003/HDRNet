@@ -2,6 +2,10 @@
 This project aims at re-identify person using deep reconstruction network. It is based on our IEEE-ACCESS 2019 paper Hdrnet: 
 The code is modified from the [triplet re-id](https://github.com/VisualComputingInstitute/triplet-reid) given by Visual Computing Lab.
 
+# Architecture
+(architecture.pdf)
+
+
 # Installation
 See Installation of [TensorFlow](https://www.tensorflow.org/) \
 Tensorboard is also recommended for visualization.
