@@ -4,8 +4,8 @@ Mainly based on our IEEE-ACCESS 2019 paper Hdrnet:
 The code is modified from the [triplet re-id](https://github.com/VisualComputingInstitute/triplet-reid) given by Visual Computing Lab.
 
 # Installation
-See Installation of [TensorFlow](https://www.tensorflow.org/)
-Tensorboard is also recommended for visualization
+See Installation of [TensorFlow](https://www.tensorflow.org/) \
+Tensorboard is also recommended for visualization.
 - **This repository requires at least version 1.4 of TensorFlow.**
 - **The TensorFlow code is Python 3 only and won't work in Python 2!**
 - **Port Forwarding can be required to use tensorboard**
