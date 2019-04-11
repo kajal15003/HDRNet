@@ -30,7 +30,8 @@ Use embeddings.h5 file and give as an input to Reconstruction/.ipynb file to rec
 
 
 # Citation
-'''
+If you use any of the provided code, please cite:
+```
 @article{kansal2019hdrnet,
   title={Hdrnet: Person Re-Identification Using Hybrid Sampling in Deep Reconstruction Network},
   author={Kansal, Kajal and Subramanyam, AV},
@@ -40,4 +41,4 @@ Use embeddings.h5 file and give as an input to Reconstruction/.ipynb file to rec
   year={2019},
   publisher={IEEE}
 }
-'''
+```
