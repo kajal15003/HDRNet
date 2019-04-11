@@ -14,9 +14,11 @@ Pre-processing
 Please prepare the dataset as per instruction of triplet re-id
 
 Train models
+
 python train_exp3dec.py --train_set "dataset_path in csv format" --image_root "dataset_path" --experiment_root "log_path" --initial_checkpoint init/resnet_v1_50.ckpt --batch_p 24 --margin 0.5 --flip_augment --crop_augment
 
 Feature Extraction
+
 python feature.py --experiment_root "log_path" --dataset "dataset_path in csv format" --filename test_embeddings.h5 --flip_augment --crop_augment five --aggregator normalized_mean
 
 Evaluation
