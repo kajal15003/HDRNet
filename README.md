@@ -5,9 +5,10 @@ The code is modified from the [triplet re-id](https://github.com/VisualComputing
 
 # Installation
 See Installation of [TensorFlow](https://www.tensorflow.org/)
-Tensorboard 
+Tensorboard is also recommended for visualization
 - **This repository requires at least version 1.4 of TensorFlow.**
 - **The TensorFlow code is Python 3 only and won't work in Python 2!**
+- **Port Forwarding can be required to use tensorboard**
 
 # Pre-processing
 
