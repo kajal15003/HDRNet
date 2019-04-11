@@ -1,13 +1,15 @@
 # HDRNet
 This project aims at re-identify person using deep reconstruction network. 
 Mainly based on our IEEE-ACCESS 2019 paper Hdrnet: 
-The code is modified from the triplet re-id (https://github.com/VisualComputingInstitute/triplet-reid) given by Visual Computing Lab.
+The code is modified from the [triplet re-id](https://github.com/VisualComputingInstitute/triplet-reid) given by Visual Computing Lab.
 
 # Installation
 Tensorflow
 CUDA
 CUDNN
 TENSORBOARD
+- **This repository requires at least version 1.4 of TensorFlow.**
+- **The TensorFlow code is Python 3 only and won't work in Python 2!**
 
 # Pre-processing
 
