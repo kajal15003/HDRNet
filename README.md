@@ -32,7 +32,7 @@ python feature.py \
 ```
 
 # Evaluation
-Use evaluate.py from [triplet re-id](https://github.com/VisualComputingInstitute/triplet-reid) to compute cmc and mAP
+Use evaluate.py to compute cmc and mAP
 
 # Reconstruction
 Use embeddings.h5 file and give as an input to Reconstruction/.ipynb file to reconstruct the images.
