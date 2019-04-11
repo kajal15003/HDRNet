@@ -3,7 +3,7 @@ This project aims at re-identify person using deep reconstruction network. It is
 The code is modified from the [triplet re-id](https://github.com/VisualComputingInstitute/triplet-reid) given by Visual Computing Lab.
 
 # Architecture
-![Screenshot of tensorboard of a healthy Market1501 run](architecture.pdf)
+![Screenshot](architecture.pdf)
 
 
 # Installation
